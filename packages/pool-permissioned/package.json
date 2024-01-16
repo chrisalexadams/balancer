@@ -61,6 +61,6 @@
     "@balancer-labs/v2-pool-utils": "^2.0.1",
     "@balancer-labs/v2-solidity-utils": "^2.0.0",
     "@balancer-labs/v2-vault": "^2.0.0",
-    "@ethersproject/contracts": "5.4.0"
+    "@ethersproject/contracts": "5.7.0"
   }
 }

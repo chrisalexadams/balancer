@@ -64,7 +64,7 @@
     "@ethersproject/bignumber": "^5.4.1",
     "@ethersproject/bytes": "^5.4.0",
     "@ethersproject/constants": "^5.4.0",
-    "@ethersproject/contracts": "5.4.0",
+    "@ethersproject/contracts": "5.7.0",
     "@ethersproject/providers": "^5.4.5",
     "decimal.js": "^10.3.1"
   }
