@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@balancer-labs/balancer-js": "^1.0.1",
-    "@balancer-labs/v2-deployments": "^2.2.0",
+    "@balancer-labs/v2-deployments": "^3.0.0",
     "@balancer-labs/v2-pool-utils": "^2.0.1",
     "@balancer-labs/v2-pool-weighted": "^2.0.1",
     "@balancer-labs/v2-solidity-utils": "^2.0.0",
